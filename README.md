@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ssaiumesh
 - 👀 I’m interested in data analysis and data visualization.
-- 🌱 I’m currently learning about data analysis.
+- 🌱 I’m currently learning about data scientist.
 
 <!---
 Ssaiumesh/Ssaiumesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
